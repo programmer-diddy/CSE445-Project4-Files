@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-	<!--Hotel 1-->
 	<Hotel Rating="3.3">
 		<Name>Phoenix Sunrise Motel</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-275-7661</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>3644</Number>
 			<Street>E Van Buren St</Street>
@@ -15,12 +12,9 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 2-->
 	<Hotel Rating="3.8">
 		<Name>Motel 6</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-244-1155</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>214</Number>
 			<Street>S 24th St</Street>
@@ -30,12 +24,9 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 3-->
 	<Hotel Rating="3.5">
 		<Name>Classic Inn</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-254-4407</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>1865</Number>
 			<Street>E Van Buren St</Street>
@@ -45,12 +36,9 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 4-->
 	<Hotel Rating="2.9">
 		<Name>Navajo Motel</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-273-6576</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>3232</Number>
 			<Street>E Van Buren St</Street>
@@ -60,12 +48,9 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 5-->
 	<Hotel Rating="2.7">
 		<Name>Western Lodge</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-374-6552</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>3725</Number>
 			<Street>E Van Buren St</Street>
@@ -75,13 +60,10 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 6-->
 	<Hotel>
 		<Name>Westin</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
@@ -91,12 +73,9 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 7-->
 	<Hotel Rating="3.1">
 		<Name>E-Z 8 Motel Phoenix</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-254-9787</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>1820</Number>
 			<Street>S 7th St</Street>
@@ -106,12 +85,9 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 8-->
 	<Hotel>
 		<Name>Friendship Inn</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-253-7400</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>201</Number>
 			<Street>N 7th Ave</Street>
@@ -121,12 +97,9 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 9-->
 	<Hotel Rating="3.7">
 		<Name>New Windsor Hotel</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-254-8694</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>546</Number>
 			<Street>W Adams St</Street>
@@ -136,12 +109,9 @@
 		</Address>
 	</Hotel>
 
-	<!--Hotel 10-->
 	<Hotel Rating="2.9">
 		<Name>Valley Inn Downtown Phoenix</Name>
-		<!--NOTE: Can have multiple phones-->
 		<Phone>602-252-6823</Phone>
-		<!--Declare NearestAirport in the Address space-->
 		<Address NearestAirport="Sky Harbor">
 			<Number>965</Number>
 			<Street>E Van Buren St</Street>
@@ -151,5 +121,3 @@
 		</Address>
 	</Hotel>
 </Hotels>
-
-<!--End of file-->
