@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-
 	elementFormDefault="qualified"
 	attributeFormDefault="unqualified"
 >
-	
 	<xsd:element name="Hotels">
 		<xsd:complexType>
 			<xsd:sequence>
@@ -26,7 +24,7 @@
 										<xsd:element name="State" type="xsd:string"/>
 										<xsd:element name="Zip" type="xsd:string"/>
 									</xsd:sequence>
-									<xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
+									<xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
 								</xsd:complexType>
 							</xsd:element>
 						</xsd:sequence>
